@@ -5,9 +5,9 @@
 </p>
 
 
-Here are some ideas to get you started:
+About me 🔎:
 
-- 🔭 I’m currently working on Natural langauge processing techniques for information extraction in the insurance industry.
+- 🔭 I’m currently working on Natural language processing techniques for information extraction in the insurance industry.
 - 🌱 I’m currently learning Machine learning operation (MLOps)
 - 📜 BSc Informatics and MSc Artificial Intelligence
 - 📫 How to reach me: mfriel97@yahoo.com
