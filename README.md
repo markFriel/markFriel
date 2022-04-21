@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
+### Hello there 👋 I'm Mark
+
+<p> <a href="https://www.linkedin.com/in/mark-friel-41039a142/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+</p>
+
+
 **markFriel/markFriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Natural langauge processing techniques for information extraction in the insurance industry.
+- 🌱 I’m currently learning Machine learning operation (MLOps)
+- 📜 BSc Informatics and MSc Artificial Intelligence
+- 📫 How to reach me: mfriel97@yahoo.com
+- 🏠 Belfast(🇮🇪🇭)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=markFriel.count_visitors)
