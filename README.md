@@ -11,7 +11,7 @@ About me 🔎:
 - 🌱 I’m currently learning Machine learning operation (MLOps)
 - 📜 Five Year Masters of Software Engineering
 - 📫 How to reach me: mfriel97@yahoo.com
-- 🏠 Belfast(🇮🇪🇭)
+- 🏠 Belfast(🇮🇪)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=markFriel.count_visitors)
