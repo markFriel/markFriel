@@ -5,8 +5,6 @@
 </p>
 
 
-**markFriel/markFriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Natural langauge processing techniques for information extraction in the insurance industry.
